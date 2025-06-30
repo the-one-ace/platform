@@ -1,0 +1,4 @@
+2025-06-19 09:31:20,682 - INFO - Use pytorch device_name: cpu
+2025-06-19 09:31:20,682 - INFO - Load pretrained SentenceTransformer: E:\my-qa-platform\One_click\backend\plus_bge_zh_model
+2025-06-20 20:24:10,170 - INFO - Use pytorch device_name: cpu
+2025-06-20 20:24:10,171 - INFO - Load pretrained SentenceTransformer: ./SAGIN_with_domain_hash_model
