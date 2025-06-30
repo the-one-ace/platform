@@ -1,0 +1,226 @@
+2025-06-19 09:27:55,081 - INFO - Use pytorch device_name: cuda
+2025-06-19 09:27:55,081 - INFO - Load pretrained SentenceTransformer: ./plus_bge_zh_model
+2025-06-19 09:28:56,741 - INFO - Use pytorch device_name: cuda
+2025-06-19 09:28:56,742 - INFO - Load pretrained SentenceTransformer: ./plus_bge_zh_model
+2025-06-19 09:30:59,212 - INFO - Use pytorch device_name: cuda
+2025-06-19 09:30:59,213 - INFO - Load pretrained SentenceTransformer: E:\my-qa-platform\One_click\backend\plus_bge_zh_model
+2025-06-19 09:33:27,488 - INFO - Use pytorch device_name: cuda
+2025-06-19 09:33:27,488 - INFO - Load pretrained SentenceTransformer: E:\my-qa-platform\One_click\backend\plus_bge_zh_model
+2025-06-19 09:35:00,167 - INFO - Use pytorch device_name: cuda
+2025-06-19 09:35:00,169 - INFO - Load pretrained SentenceTransformer: ./SAGIN_with_domain_hash_model
+2025-06-19 09:35:35,617 - INFO - Use pytorch device_name: cuda
+2025-06-19 09:35:35,617 - INFO - Load pretrained SentenceTransformer: ./SAGIN_with_domain_hash_model
+2025-06-19 09:35:37,621 - INFO - RAG·þÎñÔ¤ÈÈ³É¹¦
+2025-06-19 09:35:37,636 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-06-19 09:35:37,637 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-19 09:36:05,276 - INFO - Websocket connected
+2025-06-19 09:36:07,044 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:07] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:08,068 - INFO - Websocket connected
+2025-06-19 09:36:11,098 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:11] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:11,530 - INFO - Websocket connected
+2025-06-19 09:36:13,725 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:13] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:14,158 - INFO - Websocket connected
+2025-06-19 09:36:17,960 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:17] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:18,421 - INFO - Websocket connected
+2025-06-19 09:36:22,419 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:22] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:22,946 - INFO - Websocket connected
+2025-06-19 09:36:26,141 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:26] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:26,865 - INFO - Websocket connected
+2025-06-19 09:36:34,813 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:34] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:35,469 - INFO - Websocket connected
+2025-06-19 09:36:37,738 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:37] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:38,412 - INFO - Websocket connected
+2025-06-19 09:36:44,127 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:44] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:44,720 - INFO - Websocket connected
+2025-06-19 09:36:49,532 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:49] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:50,013 - INFO - Websocket connected
+2025-06-19 09:36:53,326 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:53] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:53,794 - INFO - Websocket connected
+2025-06-19 09:36:55,888 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:55] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:56,310 - INFO - Websocket connected
+2025-06-19 09:36:59,315 - INFO - 127.0.0.1 - - [19/Jun/2025 09:36:59] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:36:59,776 - INFO - Websocket connected
+2025-06-19 09:37:01,066 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:01] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:01,464 - INFO - Websocket connected
+2025-06-19 09:37:03,458 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:03] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:03,894 - INFO - Websocket connected
+2025-06-19 09:37:05,964 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:05] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:06,429 - INFO - Websocket connected
+2025-06-19 09:37:07,575 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:07] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:08,014 - INFO - Websocket connected
+2025-06-19 09:37:11,092 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:11] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:11,589 - INFO - Websocket connected
+2025-06-19 09:37:17,706 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:17] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:18,307 - INFO - Websocket connected
+2025-06-19 09:37:20,520 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:20] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:20,940 - INFO - Websocket connected
+2025-06-19 09:37:50,977 - INFO - Websocket connected
+2025-06-19 09:37:51,266 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:51] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:51,698 - INFO - Websocket connected
+2025-06-19 09:37:57,389 - INFO - 127.0.0.1 - - [19/Jun/2025 09:37:57] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:37:57,954 - INFO - Websocket connected
+2025-06-19 09:38:01,794 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:01] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:02,224 - INFO - Websocket connected
+2025-06-19 09:38:05,009 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:05] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:05,467 - INFO - Websocket connected
+2025-06-19 09:38:07,578 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:07] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:08,009 - INFO - Websocket connected
+2025-06-19 09:38:10,029 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:10] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:12,430 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:12] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:12,897 - INFO - Websocket connected
+2025-06-19 09:38:16,122 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:16] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:16,569 - INFO - Websocket connected
+2025-06-19 09:38:18,842 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:18] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:19,264 - INFO - Websocket connected
+2025-06-19 09:38:22,498 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:22] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:22,960 - INFO - Websocket connected
+2025-06-19 09:38:24,186 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:24] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:24,595 - INFO - Websocket connected
+2025-06-19 09:38:28,917 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:28] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:29,426 - INFO - Websocket connected
+2025-06-19 09:38:32,009 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:32] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:32,444 - INFO - Websocket connected
+2025-06-19 09:38:35,007 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:35] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:35,435 - INFO - Websocket connected
+2025-06-19 09:38:37,863 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:37] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:38,292 - INFO - Websocket connected
+2025-06-19 09:38:42,491 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:42] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:43,019 - INFO - Websocket connected
+2025-06-19 09:38:47,768 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:47] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:48,278 - INFO - Websocket connected
+2025-06-19 09:38:51,564 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:51] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:52,044 - INFO - Websocket connected
+2025-06-19 09:38:53,762 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:53] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:54,198 - INFO - Websocket connected
+2025-06-19 09:38:57,985 - INFO - 127.0.0.1 - - [19/Jun/2025 09:38:57] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:38:58,436 - INFO - Websocket connected
+2025-06-19 09:39:01,055 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:01] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:01,496 - INFO - Websocket connected
+2025-06-19 09:39:03,599 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:03] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:04,043 - INFO - Websocket connected
+2025-06-19 09:39:15,395 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:15] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:15,966 - INFO - Websocket connected
+2025-06-19 09:39:19,348 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:19] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:19,869 - INFO - Websocket connected
+2025-06-19 09:39:22,450 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:22] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:22,865 - INFO - Websocket connected
+2025-06-19 09:39:25,175 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:25] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:25,601 - INFO - Websocket connected
+2025-06-19 09:39:27,739 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:27] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:28,157 - INFO - Websocket connected
+2025-06-19 09:39:30,004 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:30] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:30,443 - INFO - Websocket connected
+2025-06-19 09:39:33,252 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:33] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:33,701 - INFO - Websocket connected
+2025-06-19 09:39:38,297 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:38] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:38,825 - INFO - Websocket connected
+2025-06-19 09:39:41,392 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:41] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:41,827 - INFO - Websocket connected
+2025-06-19 09:39:45,614 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:45] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:46,272 - INFO - Websocket connected
+2025-06-19 09:39:49,123 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:49] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:49,573 - INFO - Websocket connected
+2025-06-19 09:39:53,918 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:53] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:54,455 - INFO - Websocket connected
+2025-06-19 09:39:58,759 - INFO - 127.0.0.1 - - [19/Jun/2025 09:39:58] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:39:59,284 - INFO - Websocket connected
+2025-06-19 09:40:01,293 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:01] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:01,758 - INFO - Websocket connected
+2025-06-19 09:40:07,886 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:07] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:08,353 - INFO - Websocket connected
+2025-06-19 09:40:11,995 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:11] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:12,605 - INFO - Websocket connected
+2025-06-19 09:40:13,974 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:13] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:14,558 - INFO - Websocket connected
+2025-06-19 09:40:19,297 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:19] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:19,761 - INFO - Websocket connected
+2025-06-19 09:40:22,206 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:22] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:22,669 - INFO - Websocket connected
+2025-06-19 09:40:25,506 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:25] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:25,971 - INFO - Websocket connected
+2025-06-19 09:40:28,534 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:28] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:28,962 - INFO - Websocket connected
+2025-06-19 09:40:34,670 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:34] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:35,325 - INFO - Websocket connected
+2025-06-19 09:40:37,352 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:37] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:37,767 - INFO - Websocket connected
+2025-06-19 09:40:40,249 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:40] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:40,757 - INFO - Websocket connected
+2025-06-19 09:40:42,500 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:42] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:42,913 - INFO - Websocket connected
+2025-06-19 09:40:56,703 - INFO - 127.0.0.1 - - [19/Jun/2025 09:40:56] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:40:57,254 - INFO - Websocket connected
+2025-06-19 09:41:03,579 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:03] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:04,165 - INFO - Websocket connected
+2025-06-19 09:41:07,824 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:07] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:08,381 - INFO - Websocket connected
+2025-06-19 09:41:09,892 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:09] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:10,277 - INFO - Websocket connected
+2025-06-19 09:41:15,092 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:15] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:15,581 - INFO - Websocket connected
+2025-06-19 09:41:45,613 - INFO - Websocket connected
+2025-06-19 09:41:51,116 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:51] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:52,686 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:52] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:53,294 - INFO - Websocket connected
+2025-06-19 09:41:55,629 - INFO - 127.0.0.1 - - [19/Jun/2025 09:41:55] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:41:56,058 - INFO - Websocket connected
+2025-06-19 09:42:00,962 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:00] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:01,440 - INFO - Websocket connected
+2025-06-19 09:42:05,678 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:05] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:06,194 - INFO - Websocket connected
+2025-06-19 09:42:09,796 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:09] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:10,266 - INFO - Websocket connected
+2025-06-19 09:42:14,252 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:14] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:14,707 - INFO - Websocket connected
+2025-06-19 09:42:16,678 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:16] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:17,135 - INFO - Websocket connected
+2025-06-19 09:42:20,161 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:20] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:20,582 - INFO - Websocket connected
+2025-06-19 09:42:22,665 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:22] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:23,100 - INFO - Websocket connected
+2025-06-19 09:42:24,738 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:24] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:25,238 - INFO - Websocket connected
+2025-06-19 09:42:27,688 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:27] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:28,167 - INFO - Websocket connected
+2025-06-19 09:42:30,153 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:30] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:30,619 - INFO - Websocket connected
+2025-06-19 09:42:33,947 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:33] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:34,414 - INFO - Websocket connected
+2025-06-19 09:42:36,796 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:36] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:37,224 - INFO - Websocket connected
+2025-06-19 09:42:38,731 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:38] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:39,139 - INFO - Websocket connected
+2025-06-19 09:42:42,815 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:42] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:43,288 - INFO - Websocket connected
+2025-06-19 09:42:45,222 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:45] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:45,799 - INFO - Websocket connected
+2025-06-19 09:42:48,765 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:48] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:49,190 - INFO - Websocket connected
+2025-06-19 09:42:51,245 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:51] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:51,664 - INFO - Websocket connected
+2025-06-19 09:42:55,433 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:55] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:55,892 - INFO - Websocket connected
+2025-06-19 09:42:56,633 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:56] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:42:57,032 - INFO - Websocket connected
+2025-06-19 09:42:59,796 - INFO - 127.0.0.1 - - [19/Jun/2025 09:42:59] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:43:00,263 - INFO - Websocket connected
+2025-06-19 09:43:00,702 - INFO - 127.0.0.1 - - [19/Jun/2025 09:43:00] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:43:01,285 - INFO - Websocket connected
+2025-06-19 09:43:03,284 - INFO - 127.0.0.1 - - [19/Jun/2025 09:43:03] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:43:03,696 - INFO - Websocket connected
+2025-06-19 09:43:07,166 - INFO - 127.0.0.1 - - [19/Jun/2025 09:43:07] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:43:07,623 - INFO - Websocket connected
+2025-06-19 09:43:09,556 - INFO - 127.0.0.1 - - [19/Jun/2025 09:43:09] "POST /chat HTTP/1.1" 200 -
+2025-06-19 09:43:09,968 - INFO - Websocket connected
+2025-06-19 09:43:12,740 - INFO - 127.0.0.1 - - [19/Jun/2025 09:43:12] "POST /chat HTTP/1.1" 200 -
+2025-06-20 20:25:17,981 - INFO - Use pytorch device_name: cuda
+2025-06-20 20:25:17,982 - INFO - Load pretrained SentenceTransformer: ./plus_bge_zh_model
+2025-06-20 20:36:18,167 - INFO - Use pytorch device_name: cuda
+2025-06-20 20:36:18,167 - INFO - Load pretrained SentenceTransformer: ./plus_bge_zh_model
+2025-06-20 20:38:49,972 - INFO - Use pytorch device_name: cuda
+2025-06-20 20:38:49,972 - INFO - Load pretrained SentenceTransformer: ./plus_bge_zh_model
+2025-06-20 20:39:14,762 - INFO - Use pytorch device_name: cuda
+2025-06-20 20:39:14,762 - INFO - Load pretrained SentenceTransformer: E:\my-qa-platform\One_click\backend\plus_bge_zh_model
+2025-06-25 21:23:55,500 - INFO - Use pytorch device_name: cuda
+2025-06-25 21:23:55,502 - INFO - Load pretrained SentenceTransformer: E:\my-qa-platform\One_click\backend\optimized_qa_model

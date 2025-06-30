@@ -1,0 +1,15 @@
+dashscope==1.21.0
+faiss_cpu==1.10.0
+fastapi==0.115.12
+Flask==3.1.0
+Flask_Cors==5.0.0
+jieba==0.42.1
+numpy==1.26.4
+pandas==2.2.3
+pydantic==2.11.3
+Requests==2.32.3
+scikit_learn==1.6.1
+sentence_transformers==3.4.1
+torch==2.1.1
+tqdm==4.67.1
+uvicorn==0.34.2

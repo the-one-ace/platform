@@ -1,0 +1,27 @@
+# 忽略所有压缩包
+*.zip
+
+# 忽略特定模型文件后缀
+*.safetensors
+*.pth
+*.h5
+*.bin
+
+# 忽略无关文件
+*.msi
+
+# 忽略完整的模型和索引文件夹
+bge_l2_index/
+multilingual_ivf_index/
+plus_bge_zh_model/
+plus_qa_model/
+qa_index/
+qa_model/
+optimized_qa_model/
+runtime/
+
+# 忽略所有依赖和构建产物
+node_modules
+dist
+.env
+.DS_Store
