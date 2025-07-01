@@ -34,7 +34,7 @@ backend/optimized_qa_model/
 backend/plus_bge_zh_model/
 backend/production_index/
 backend/SAGIN_with_domain_hash_model/
-
+audio/
 # 注意：您之前的 .gitignore 中有一些文件夹，
 # 我也加上了 backend/ 前缀，请根据实际情况保留或删除
 backend/plus_qa_model/
