@@ -1,7 +1,8 @@
+# --- 通用规则 ---
 # 忽略所有压缩包
 *.zip
 
-# 忽略特定模型文件后缀
+# 忽略特定模型文件后缀 (这些规则会自动应用到所有子目录)
 *.safetensors
 *.pth
 *.h5
@@ -9,19 +10,34 @@
 
 # 忽略无关文件
 *.msi
+app.log
+app_bge.log
+# 如果有其他日志文件，也可以加上，例如：
+*.log
 
-# 忽略完整的模型和索引文件夹
-bge_l2_index/
-multilingual_ivf_index/
-plus_bge_zh_model/
-plus_qa_model/
-qa_index/
-qa_model/
-optimized_qa_model/
-runtime/
+# --- 前端相关规则 ---
+# 明确指定是 frontend 文件夹下的 node_modules
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
 
-# 忽略所有依赖和构建产物
-node_modules
-dist
-.env
-.DS_Store
+
+# --- 后端相关规则 (这是本次修改的重点) ---
+# 明确指定要忽略 backend 文件夹下的这些子文件夹
+backend/bge_l2_index/
+backend/config/
+backend/domain_index/
+backend/index_ivf/
+backend/multilingual_ivf_index/
+backend/optimized_qa_model/
+backend/plus_bge_zh_model/
+backend/production_index/
+backend/SAGIN_with_domain_hash_model/
+
+# 注意：您之前的 .gitignore 中有一些文件夹，
+# 我也加上了 backend/ 前缀，请根据实际情况保留或删除
+backend/plus_qa_model/
+backend/qa_index/
+backend/qa_model/
+backend/runtime/
